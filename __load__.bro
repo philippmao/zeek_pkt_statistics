@@ -1,1 +1,1 @@
-@load ./IAT.bro
+@load ./statistics.bro
