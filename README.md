@@ -1,2 +1,4 @@
 # zeek_pkt_statistics
-Zeek Script to measure packet statistics
+Zeek Script to measure packet statistics, including IAT (Inter Arrival Time) statistics, initial TCP window size, packet size statistics.
+
+
